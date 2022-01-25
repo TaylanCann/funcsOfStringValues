@@ -38,7 +38,7 @@ This repo is for the Geleceği Yazanlar.
   <br>
   <br>
   
-  IndexOf
+  Split
   
   ![Split](https://user-images.githubusercontent.com/50484440/150997609-7db14341-5486-4b5b-b8f4-2e5bc5115d9f.png)
 
